@@ -1,0 +1,17 @@
+README.md
+pyproject.toml
+src/flet_webview_windows/__init__.py
+src/flet_webview_windows/flet_webview_windows.py
+src/flet_webview_windows.egg-info/PKG-INFO
+src/flet_webview_windows.egg-info/SOURCES.txt
+src/flet_webview_windows.egg-info/dependency_links.txt
+src/flet_webview_windows.egg-info/requires.txt
+src/flet_webview_windows.egg-info/top_level.txt
+src/flutter/flet_webview_windows/CHANGELOG.md
+src/flutter/flet_webview_windows/LICENSE
+src/flutter/flet_webview_windows/README.md
+src/flutter/flet_webview_windows/pubspec.lock
+src/flutter/flet_webview_windows/pubspec.yaml
+src/flutter/flet_webview_windows/lib/flet_webview_windows.dart
+src/flutter/flet_webview_windows/lib/src/create_control.dart
+src/flutter/flet_webview_windows/lib/src/flet_webview_windows.dart
